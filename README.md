@@ -1,6 +1,8 @@
 # lmGC_
 Linear Regression Use lmGC (tigerstats) With (In) R Software
 
+https://www.youtube.com/watch?v=kriQKuDXeSs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
